@@ -1,0 +1,16 @@
+Ip:192.168.1.14
+Mascara_subred:255.255.255.0
+Puerta_enlace:192.168.1.1
+DNS:
+Ip_dns:1.0.0.1
+Velocidad:7
+Saltos:8
+Ip_saltos:
+Ip_salto:192.168.1.1
+Ip_salto:10.255.176.141 
+Ip_salto:10.255.58.189 
+Ip_salto:10.34.65.5 
+Ip_salto:10.34.34.229 
+Ip_salto:81.52.188.113 
+Ip_salto:193.251.150.10 
+Ip_salto:1.0.0.1
