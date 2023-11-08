@@ -24,6 +24,9 @@ int main() {
     checkearVelocidad(); // Llamada a la funcion para testear la velocidad y reconfigurar si es necesario
 
     system("cls");
+    remove(ARCHIVO_DNS);
+    remove(ARCHIVO_ADAPTADORES);
+    remove(ARCHIVO_TEMPORAL);
     printf("Saliendo...");
     return 0;
 }
